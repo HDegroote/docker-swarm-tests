@@ -1,0 +1,25 @@
+{
+  "name": "docker-swarm-tests",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HDegroote/docker-swarm-tests.git"
+  },
+  "author": "H. Degroote",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/HDegroote/docker-swarm-tests/issues"
+  },
+  "homepage": "https://github.com/HDegroote/docker-swarm-tests#readme",
+  "dependencies": {
+    "b4a": "^1.6.4",
+    "graceful-goodbye": "^1.3.0",
+    "hyperdht": "hdegroote/hyperdht#debug",
+    "hyperswarm": "^4.7.13"
+  }
+}
